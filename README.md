@@ -18,5 +18,5 @@ MVC, birbirinden bağımsız üç katmanı esas alan bir "Mimarisel Desen(Archit
 * Gelen requestleri karşılayacak olan ve requestin içeriğine göre gerekli model işlemlerini yönetecek katmandır.
 * Algoritmaları, servisleri, veritabanını vs. çağırarak/çalıştırarak/sorgulayarak istenilen veriyi üretmekte ve ihtiyaç dahilinde üretilen veriyi View ile görseleştirmekten sorumludur.
 * Controller gelen isteği her zaman karşılamaktadır.
-* Model ile Controller konuşmaktadır.Çünkü Model ve View sayfası birbirinden soyutlanmaktadır.Bunu da Controller yönetmektedir.
+* Model ve View sayfası birbirinden soyutlanmaktadır.Bunu da Controller yönetmektedir.
 
